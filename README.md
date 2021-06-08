@@ -1,0 +1,2 @@
+# ECG-Signal-Analysis-using-Python
+Frequency Analysis &amp; Data analysis are very much useful methods for a Biomedical Engineering research. In this project we will be describing the frequency analysis of electrocardiogram(ECG). And in this project we will also be discussing about the three different heart rate frequency detection algorithms. The Algorithms will be based on the statistical and different mathematical theories.
